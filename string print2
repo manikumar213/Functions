@@ -1,0 +1,6 @@
+# Define your function here
+def mars():
+    print('We Aliens Welcome You Human to Our Planet MARS. Prepare to Die!!! ')
+# Call your function here
+mars()
+mars()
